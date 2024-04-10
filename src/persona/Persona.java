@@ -17,9 +17,9 @@ public class Persona {
       System.out.println("Feliz cumpleaños ahora tienes " + edad + " años");
   }
 
-
   public static void main(String[] args) {
       Persona persona = new Persona("Juan", "Pérez", 30);
       persona.Cumpleaños(); 
   }
 }
+
